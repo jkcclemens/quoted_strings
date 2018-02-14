@@ -1,0 +1,10 @@
+[package]
+name = "quoted_strings"
+version = "0.1.0"
+authors = ["Kyle Clemens <unquote@kyleclemens.com>"]
+description = "Provides an iterator through quoted strings."
+keywords = ["quote", "quotes", "quoted", "string", "strings", "unquote"]
+documentation = "https://docs.rs/quoted_strings"
+repository = "https://github.com/jkcclemens/quoted_strings"
+license = "MIT"
+readme = "README.md"
